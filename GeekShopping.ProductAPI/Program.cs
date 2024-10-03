@@ -1,3 +1,5 @@
+using AutoMapper;
+using GeekShopping.ProductAPI.Config;
 using GeekShopping.ProductAPI.Model.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
@@ -5,6 +7,10 @@ using MySqlConnector;
 
 var builder = WebApplication.CreateBuilder(args);
 var connection = builder.Configuration["MySqlConnection:MySqlConnectionString"];
+
+IMapper mapper = MappingConfig.RegisterMaps().CreateMapper();
+builder.Services.AddSingleton(mapper);
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 // Add services to the container.
 builder.Services.AddDbContext<MySQLContext>(options => options.UseMySql(
     connection,
