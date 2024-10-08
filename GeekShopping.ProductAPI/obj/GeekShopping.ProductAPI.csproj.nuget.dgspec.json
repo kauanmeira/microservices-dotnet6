@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\source\\repos\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
+    "C:\\Users\\iTravel\\Desktop\\WORK\\personal\\kauan\\microservices-dotnet6\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\source\\repos\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
+    "C:\\Users\\iTravel\\Desktop\\WORK\\personal\\kauan\\microservices-dotnet6\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "projectUniqueName": "C:\\Users\\iTravel\\Desktop\\WORK\\personal\\kauan\\microservices-dotnet6\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
         "projectName": "GeekShopping.ProductAPI",
-        "projectPath": "C:\\Users\\Usuario\\source\\repos\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\source\\repos\\GeekShopping\\GeekShopping.ProductAPI\\obj\\",
+        "projectPath": "C:\\Users\\iTravel\\Desktop\\WORK\\personal\\kauan\\microservices-dotnet6\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "packagesPath": "C:\\Users\\iTravel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iTravel\\Desktop\\WORK\\personal\\kauan\\microservices-dotnet6\\GeekShopping.ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\iTravel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,6 +53,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.0, )"
             },
@@ -94,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.425\\RuntimeIdentifierGraph.json"
         }
       }
     }
