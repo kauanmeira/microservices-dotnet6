@@ -8,24 +8,27 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\iTravel\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iTravel\\Desktop\\WORK\\personal\\kauan\\microservices-dotnet6\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
       "projectName": "GeekShopping.Web",
-      "projectPath": "C:\\Users\\iTravel\\Desktop\\WORK\\personal\\kauan\\microservices-dotnet6\\GeekShopping.Web\\GeekShopping.Web.csproj",
-      "packagesPath": "C:\\Users\\iTravel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iTravel\\Desktop\\WORK\\personal\\kauan\\microservices-dotnet6\\GeekShopping.Web\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\source\\repos\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\source\\repos\\GeekShopping\\GeekShopping.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\iTravel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,6 +41,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -62,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.425\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

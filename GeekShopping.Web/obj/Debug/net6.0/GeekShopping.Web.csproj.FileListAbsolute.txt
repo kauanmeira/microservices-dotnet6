@@ -28,3 +28,4 @@ C:\Users\Usuario\source\repos\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\ref
 C:\Users\Usuario\source\repos\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.pdb
 C:\Users\Usuario\source\repos\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\ref\GeekShopping.Web.dll
+C:\Users\Usuario\source\repos\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.sourcelink.json
