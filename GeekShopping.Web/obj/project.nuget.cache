@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e9z4nfGQO7I=",
+  "dgSpecHash": "iM2EHg6AXgc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\microservices-dotnet6\\GeekShopping.Web\\GeekShopping.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -10042,11 +10042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\microservices-dotnet6\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
       "projectName": "GeekShopping.ProductAPI",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+      "projectPath": "C:\\Users\\Usuario\\source\\repos\\microservices-dotnet6\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\GeekShopping\\GeekShopping.ProductAPI\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\source\\repos\\microservices-dotnet6\\GeekShopping.ProductAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
