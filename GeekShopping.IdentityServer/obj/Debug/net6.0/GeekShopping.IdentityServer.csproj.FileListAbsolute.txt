@@ -1,5 +1,6 @@
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\appsettings.json
+C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-CA11D7E2F723FAFF278C9D4E759B22E5.json
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.staticwebassets.runtime.json
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.exe
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.deps.json
@@ -297,8 +298,11 @@ C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Duende.IdentityServer.dll
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Humanizer.dll
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\IdentityModel.dll
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
@@ -309,8 +313,14 @@ C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
@@ -371,5 +381,3 @@ C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.pdb
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\obj\Debug\net6.0\ref\GeekShopping.IdentityServer.dll
-C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Humanizer.dll
-C:\Users\Usuario\source\repos\microservices-dotnet6\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
